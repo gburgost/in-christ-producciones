@@ -4,6 +4,9 @@ html{
 body{
 	font-family: 'Open Sans', sans-serif;
 }
+hr{
+	border-top: 2px solid #E0C91C;
+}
 .logo img{
 	margin-top: -35px;
 	width: 150px;
