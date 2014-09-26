@@ -1,0 +1,35 @@
+html{
+	font-family: 'Open Sans', sans-serif;
+}
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+.logo img{
+	margin-top: -35px;
+	width: 150px;
+	border-radius: 5px;
+	box-shadow: 0 2px 15px #000;
+}
+
+.navbar-fixed-top{
+	padding: 20px 0;
+}
+.navbar-nav{
+	float: right;
+}
+
+.menu{
+	background: #000;
+	border:none;
+	box-shadow: 0 2px 15px #000;
+}
+hr{
+	padding: 1em;
+}
+.width{
+	width: 100%;
+}
+.width2{
+	padding: 0;
+}
+
